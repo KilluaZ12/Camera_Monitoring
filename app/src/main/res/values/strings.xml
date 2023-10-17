@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Camera_Monitoring</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cameras">Камеры</string>
+    <string name="rooms">Комнаты</string>
+    <string name="home">Мой дом</string>
+    <string name="hall">Гостиная</string>
+    <string name="cam_1">Камера 1</string>
+    <string name="online">В сети</string>
+    <string name="entrance_1">Подъезд 1</string>
+</resources>
